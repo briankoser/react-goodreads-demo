@@ -1,0 +1,2536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key>
+            <![CDATA[2kYIBVxcqaN4mdfclzwVQ]]>
+        </key>
+        <method>
+            <![CDATA[user_show]]>
+        </method>
+    </Request>
+    <user>
+        <id>4812558</id>
+        <name>Brian Koser</name>
+        <user_name></user_name>
+        <link>
+            <![CDATA[https://www.goodreads.com/user/show/4812558-brian-koser]]>
+        </link>
+        <image_url>
+            <![CDATA[https://images.gr-assets.com/users/1529893704p3/4812558.jpg]]>
+        </image_url>
+        <small_image_url>
+            <![CDATA[https://images.gr-assets.com/users/1529893704p2/4812558.jpg]]>
+        </small_image_url>
+        <about></about>
+        <age></age>
+        <gender></gender>
+        <location>Mobile, AL</location>
+        <website>http://koser.us</website>
+        <joined>01/2011</joined>
+        <last_active>12/2019</last_active>
+        <interests>
+            <![CDATA[Reading, web programming, modern board games]]>
+        </interests>
+        <favorite_books>
+            <![CDATA[Science-fiction, fantasy, Christian, the classics, quirky non-fiction, history, mystery...]]>
+        </favorite_books>
+        <favorite_authors>
+            <author>
+                <id type="integer">8842</id>
+                <name>Susanna Clarke</name>
+            </author>
+        </favorite_authors>
+        <updates_rss_url>
+            <![CDATA[https://www.goodreads.com/user/updates_rss/4812558?key=39eMNtqSb_HWJQpihlEiCX178ZHpyQDxjiWtnFFtNeWZMUSK]]>
+        </updates_rss_url>
+        <reviews_rss_url>
+            <![CDATA[https://www.goodreads.com/review/list_rss/4812558?key=39eMNtqSb_HWJQpihlEiCX178ZHpyQDxjiWtnFFtNeWZMUSK&shelf=%23ALL%23]]>
+        </reviews_rss_url>
+        <friends_count type="integer">21</friends_count>
+        <groups_count>0</groups_count>
+        <reviews_count type="integer">2116</reviews_count>
+        <user_shelves type="array">
+            <user_shelf>
+                <id type="integer">15377251</id>
+                <name>read</name>
+                <book_count type="integer">1158</book_count>
+                <exclusive_flag type="boolean">true</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">15377250</id>
+                <name>currently-reading</name>
+                <book_count type="integer">4</book_count>
+                <exclusive_flag type="boolean">true</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">15377249</id>
+                <name>to-read</name>
+                <book_count type="integer">680</book_count>
+                <exclusive_flag type="boolean">true</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order>a</order>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">203361171</id>
+                <name>did-not-finish</name>
+                <book_count type="integer">6</book_count>
+                <exclusive_flag type="boolean">true</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">false</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">155634049</id>
+                <name>not-going-to-read</name>
+                <book_count type="integer">262</book_count>
+                <exclusive_flag type="boolean">true</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">false</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">218076922</id>
+                <name>read-individually-own-collection</name>
+                <book_count type="integer">6</book_count>
+                <exclusive_flag type="boolean">true</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">302308344</id>
+                <name>372-pages</name>
+                <book_count type="integer">8</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">213522818</id>
+                <name>adventure</name>
+                <book_count type="integer">140</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">217979013</id>
+                <name>alternate-history</name>
+                <book_count type="integer">6</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">175302211</id>
+                <name>audio</name>
+                <book_count type="integer">51</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">233365088</id>
+                <name>best-of-year-published</name>
+                <book_count type="integer">108</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215472153</id>
+                <name>best-summary-opening-sentences</name>
+                <book_count type="integer">3</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">214261279</id>
+                <name>bible</name>
+                <book_count type="integer">11</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215866107</id>
+                <name>biography</name>
+                <book_count type="integer">12</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">222726553</id>
+                <name>childrens-book-reviews</name>
+                <book_count type="integer">9</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">178343919</id>
+                <name>classics</name>
+                <book_count type="integer">44</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">223525642</id>
+                <name>crossover</name>
+                <book_count type="integer">4</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215755547</id>
+                <name>dc</name>
+                <book_count type="integer">33</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">252926713</id>
+                <name>did-not-finish-2016</name>
+                <book_count type="integer">1</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">252926743</id>
+                <name>did-not-finish-2017</name>
+                <book_count type="integer">1</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">252926753</id>
+                <name>did-not-finish-2018</name>
+                <book_count type="integer">2</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">315992374</id>
+                <name>did-not-finish-2019</name>
+                <book_count type="integer">1</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">175302169</id>
+                <name>ebook</name>
+                <book_count type="integer">56</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">214502981</id>
+                <name>fantasy</name>
+                <book_count type="integer">168</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">203056271</id>
+                <name>favorites</name>
+                <book_count type="integer">8</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">true</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean">false</sticky>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">213473141</id>
+                <name>fiction</name>
+                <book_count type="integer">905</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">219217614</id>
+                <name>financial</name>
+                <book_count type="integer">2</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">213527063</id>
+                <name>first-read-1996</name>
+                <book_count type="integer">4</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">213473155</id>
+                <name>first-read-1997</name>
+                <book_count type="integer">59</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">213527273</id>
+                <name>first-read-1998</name>
+                <book_count type="integer">67</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">213527277</id>
+                <name>first-read-1999</name>
+                <book_count type="integer">28</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">214381365</id>
+                <name>first-read-2000</name>
+                <book_count type="integer">22</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">214395473</id>
+                <name>first-read-2001</name>
+                <book_count type="integer">116</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215261041</id>
+                <name>first-read-2002</name>
+                <book_count type="integer">117</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215569421</id>
+                <name>first-read-2003</name>
+                <book_count type="integer">122</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215862609</id>
+                <name>first-read-2004</name>
+                <book_count type="integer">65</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215969198</id>
+                <name>first-read-2005</name>
+                <book_count type="integer">67</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">216176578</id>
+                <name>first-read-2006</name>
+                <book_count type="integer">57</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">216283346</id>
+                <name>first-read-2007</name>
+                <book_count type="integer">56</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">216545641</id>
+                <name>first-read-2008</name>
+                <book_count type="integer">14</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">216775833</id>
+                <name>first-read-2009</name>
+                <book_count type="integer">11</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">216777173</id>
+                <name>first-read-2010</name>
+                <book_count type="integer">33</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">216778572</id>
+                <name>first-read-2011</name>
+                <book_count type="integer">46</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">217382361</id>
+                <name>first-read-2012</name>
+                <book_count type="integer">18</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">217949599</id>
+                <name>first-read-2013</name>
+                <book_count type="integer">15</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">217975264</id>
+                <name>first-read-2014</name>
+                <book_count type="integer">13</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">131249441</id>
+                <name>first-read-2015</name>
+                <book_count type="integer">11</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">168814714</id>
+                <name>first-read-2016</name>
+                <book_count type="integer">44</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">207727264</id>
+                <name>first-read-2017</name>
+                <book_count type="integer">34</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">249641191</id>
+                <name>first-read-2018</name>
+                <book_count type="integer">23</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">298008825</id>
+                <name>first-read-2019</name>
+                <book_count type="integer">19</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215470406</id>
+                <name>games</name>
+                <book_count type="integer">5</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215747057</id>
+                <name>graphic-novel</name>
+                <book_count type="integer">145</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">214284479</id>
+                <name>historical-fiction</name>
+                <book_count type="integer">53</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">214294778</id>
+                <name>history</name>
+                <book_count type="integer">19</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">214185224</id>
+                <name>horror</name>
+                <book_count type="integer">4</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">260908130</id>
+                <name>hugo-nominee</name>
+                <book_count type="integer">19</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">260907918</id>
+                <name>hugo-winner</name>
+                <book_count type="integer">15</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">214394572</id>
+                <name>humor</name>
+                <book_count type="integer">20</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">214289476</id>
+                <name>hundreds</name>
+                <book_count type="integer">10</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">223526484</id>
+                <name>immortals</name>
+                <book_count type="integer">2</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">218074131</id>
+                <name>language</name>
+                <book_count type="integer">2</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">216779744</id>
+                <name>marriage</name>
+                <book_count type="integer">3</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215747068</id>
+                <name>marvel</name>
+                <book_count type="integer">85</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">217287636</id>
+                <name>math</name>
+                <book_count type="integer">1</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">218074284</id>
+                <name>music</name>
+                <book_count type="integer">1</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">213473323</id>
+                <name>mystery</name>
+                <book_count type="integer">61</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">218079355</id>
+                <name>new-authors-read-1996</name>
+                <book_count type="integer">1</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">213500812</id>
+                <name>new-authors-read-1997</name>
+                <book_count type="integer">3</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">213609932</id>
+                <name>new-authors-read-1998</name>
+                <book_count type="integer">48</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">214371576</id>
+                <name>new-authors-read-1999</name>
+                <book_count type="integer">7</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">214381384</id>
+                <name>new-authors-read-2000</name>
+                <book_count type="integer">11</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">214395608</id>
+                <name>new-authors-read-2001</name>
+                <book_count type="integer">42</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215261049</id>
+                <name>new-authors-read-2002</name>
+                <book_count type="integer">49</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215569443</id>
+                <name>new-authors-read-2003</name>
+                <book_count type="integer">40</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215862657</id>
+                <name>new-authors-read-2004</name>
+                <book_count type="integer">17</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">215969233</id>
+                <name>new-authors-read-2005</name>
+                <book_count type="integer">31</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">216176613</id>
+                <name>new-authors-read-2006</name>
+                <book_count type="integer">22</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">216284113</id>
+                <name>new-authors-read-2007</name>
+                <book_count type="integer">12</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">216545696</id>
+                <name>new-authors-read-2008</name>
+                <book_count type="integer">7</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">216776022</id>
+                <name>new-authors-read-2009</name>
+                <book_count type="integer">8</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">216777212</id>
+                <name>new-authors-read-2010</name>
+                <book_count type="integer">28</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">216778579</id>
+                <name>new-authors-read-2011</name>
+                <book_count type="integer">29</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">217382370</id>
+                <name>new-authors-read-2012</name>
+                <book_count type="integer">10</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">217949637</id>
+                <name>new-authors-read-2013</name>
+                <book_count type="integer">8</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">217975277</id>
+                <name>new-authors-read-2014</name>
+                <book_count type="integer">4</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">203051306</id>
+                <name>new-authors-read-2015</name>
+                <book_count type="integer">3</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">203051526</id>
+                <name>new-authors-read-2016</name>
+                <book_count type="integer">31</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">207727289</id>
+                <name>new-authors-read-2017</name>
+                <book_count type="integer">25</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">249641248</id>
+                <name>new-authors-read-2018</name>
+                <book_count type="integer">13</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">302308407</id>
+                <name>new-authors-read-2019</name>
+                <book_count type="integer">10</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">214401818</id>
+                <name>newspaper-comics</name>
+                <book_count type="integer">41</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">178374250</id>
+                <name>non-fiction</name>
+                <book_count type="integer">199</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">298008748</id>
+                <name>novella</name>
+                <book_count type="integer">1</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">223183595</id>
+                <name>on-deck</name>
+                <book_count type="integer">7</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">15447015</id>
+                <name>own</name>
+                <book_count type="integer">609</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">223526504</id>
+                <name>parallel-universe</name>
+                <book_count type="integer">1</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">223525462</id>
+                <name>pastiche</name>
+                <book_count type="integer">2</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">218281035</id>
+                <name>philosophy</name>
+                <book_count type="integer">1</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+            <user_shelf>
+                <id type="integer">308180236</id>
+                <name>play</name>
+                <book_count type="integer">2</book_count>
+                <exclusive_flag type="boolean">false</exclusive_flag>
+                <description nil="true"/>
+                <sort nil="true"/>
+                <order nil="true"/>
+                <per_page type="integer" nil="true"/>
+                <display_fields></display_fields>
+                <featured type="boolean">false</featured>
+                <recommend_for type="boolean">true</recommend_for>
+                <sticky type="boolean" nil="true"/>
+            </user_shelf>
+        </user_shelves>
+        <updates type="array">
+            <update type="review">
+                <action_text>
+                    <![CDATA[gave 3 stars to <a href="https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind">The Name of the Wind (The Kingkiller Chronicle, #1)</a> by<a href="https://www.goodreads.com/author/show/108424.Patrick_Rothfuss">Patrick Rothfuss</a>]]>
+                </action_text>
+                <link>https://www.goodreads.com/review/show/1414420459</link>
+                <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515589515l/186074._SX50_.jpg</image_url>
+                <actor>
+                    <id type="integer">4812558</id>
+                    <name>Brian Koser</name>
+                    <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                    <link>https://www.goodreads.com/user/show/4812558-brian-koser</link>
+                </actor>
+                <updated_at>Thu, 07 Nov 2019 19:01:04 -0800</updated_at>
+                <action type="rating">
+                    <rating>3</rating>
+                </action>
+                <object>
+                    <book>
+                        <id>186074</id>
+                        <title>
+                            <![CDATA[The Name of the Wind (The Kingkiller Chronicle, #1)]]>
+                        </title>
+                        <link>https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind</link>
+                        <authors>
+                            <author>
+                                <id>108424</id>
+                                <name>Patrick Rothfuss</name>
+                                <role></role>
+                                <image_url nophoto='false'>
+                                    <![CDATA[https://images.gr-assets.com/authors/1351307341p5/108424.jpg]]>
+                                </image_url>
+                                <small_image_url nophoto='false'>
+                                    <![CDATA[https://images.gr-assets.com/authors/1351307341p2/108424.jpg]]>
+                                </small_image_url>
+                                <link>
+                                    <![CDATA[https://www.goodreads.com/author/show/108424.Patrick_Rothfuss]]>
+                                </link>
+                                <average_rating>4.48</average_rating>
+                                <ratings_count>1159996</ratings_count>
+                                <text_reviews_count>72569</text_reviews_count>
+                            </author>
+                        </authors>
+                    </book>
+                </object>
+                <body>
+                    <![CDATA[An enjoyable book, diminished by the Ernest Cline-ian middle section.<br /><br />I liked the writing overall. There are some modern phrases that seem out of place, but this world isn't medieval, so maybe that's on purpose. His characters are likeable, the plot is interesting. I would have devoured it in high...<a href="https://www.goodreads.com/review/show/1414420459">more...</a>]]>
+                </body>
+            </update>
+            <update type="readstatus">
+                <action_text>
+                    <![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/3038353073">The Years of Rice and Salt</a>]]>
+                </action_text>
+                <link>https://www.goodreads.com/read_statuses/3208325599</link>
+                <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                <actor>
+                    <id type="integer">4812558</id>
+                    <name>Brian Koser</name>
+                    <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                    <link>https://www.goodreads.com/user/show/4812558-brian-koser</link>
+                </actor>
+                <updated_at>Tue, 05 Nov 2019 17:26:01 -0800</updated_at>
+                <object>
+                    <read_status>
+                        <id type="integer">3208325599</id>
+                        <review_id type="integer">3038353073</review_id>
+                        <user_id type="integer">4812558</user_id>
+                        <old_status nil="true"/>
+                        <status>to-read</status>
+                        <updated_at type="datetime">2019-11-06T01:26:01+00:00</updated_at>
+                        <review>
+                            <id type="integer">3038353073</id>
+                            <user_id type="integer">4812558</user_id>
+                            <book_id type="integer">41143</book_id>
+                            <rating type="integer">0</rating>
+                            <read_status>to-read</read_status>
+                            <sell_flag type="boolean">false</sell_flag>
+                            <review nil="true"/>
+                            <recommendation nil="true"/>
+                            <read_at type="datetime" nil="true"/>
+                            <updated_at type="datetime">2019-11-06T01:26:01+00:00</updated_at>
+                            <created_at type="datetime">2019-11-06T01:26:01+00:00</created_at>
+                            <comments_count type="integer">0</comments_count>
+                            <weight type="integer">0</weight>
+                            <ratings_sum type="integer">0</ratings_sum>
+                            <ratings_count type="integer">0</ratings_count>
+                            <spoiler_flag type="boolean">false</spoiler_flag>
+                            <recommender_user_id1 type="integer">0</recommender_user_id1>
+                            <recommender_user_name1 nil="true"/>
+                            <work_id type="integer">74882</work_id>
+                            <last_comment_at type="datetime" nil="true"/>
+                            <started_at type="datetime" nil="true"/>
+                            <hidden_flag type="boolean">false</hidden_flag>
+                            <language_code type="integer" nil="true"/>
+                            <last_revision_at type="datetime">2019-11-06T01:26:01+00:00</last_revision_at>
+                            <non_friends_rating_count type="integer">0</non_friends_rating_count>
+                            <encrypted_notes nil="true"/>
+                            <book_uri>kca://book/amzn1.gr.book.v1.uGIy596PfnAYIeJTvzL5Nw</book_uri>
+                            <notes nil="true"/>
+                            <book>
+                                <id type="integer">41143</id>
+                                <work_id type="integer">74882</work_id>
+                                <isbn>0006511481</isbn>
+                                <isbn13>9780006511489</isbn13>
+                                <title>The Years of Rice and Salt</title>
+                                <sort_by_title>years of rice and salt, the</sort_by_title>
+                                <author_id type="integer">1858</author_id>
+                                <author_role nil="true"/>
+                                <asin nil="true"/>
+                                <description>A vanguard of the Mongol horde rides west across the steppes into an eerily silent world. People lie dead in villages and in the streets of towns. The Black Death has struck Europe. There are virtually no survivors.
+
+Into this empty land pour merchants, warlords and refugees, and from that day forward history is shaped by the East instead of the West. Japanese ships cross the Pacific Ocean and Chinese ships cross the Atlantic to colonise the New World, while a scientific revolution is begun in Samarkand. And the destinies of a cast of unforgettable characters weave a bright new pattern through seven hundred years of history as it never was, but might have been.</description>
+                                <format>Paperback</format>
+                                <publication_year type="integer">2003</publication_year>
+                                <publication_month type="integer" nil="true"/>
+                                <publication_day type="integer" nil="true"/>
+                                <num_pages type="integer">772</num_pages>
+                                <publisher>Harper Collins</publisher>
+                                <language_code>eng</language_code>
+                                <edition_information nil="true"/>
+                                <url nil="true"/>
+                                <source_url nil="true"/>
+                                <image_uploaded_at type="datetime">2012-02-08T23:53:40+00:00</image_uploaded_at>
+                                <s3_image_at type="datetime">2015-05-16T14:54:04+00:00</s3_image_at>
+                                <reviews_count type="integer">709</reviews_count>
+                                <ratings_sum type="integer">706</ratings_sum>
+                                <ratings_count type="integer">199</ratings_count>
+                                <text_reviews_count type="integer">32</text_reviews_count>
+                                <book_authors_count type="integer">0</book_authors_count>
+                                <updated_at type="datetime">2015-05-16T14:54:04+00:00</updated_at>
+                                <created_at type="datetime">2007-01-23T19:34:01+00:00</created_at>
+                                <author_id_updater_user_id type="integer">-101</author_id_updater_user_id>
+                                <author_role_updater_user_id type="integer">3913577</author_role_updater_user_id>
+                                <description_updater_user_id type="integer">4319355</description_updater_user_id>
+                                <edition_information_updater_user_id type="integer" nil="true"/>
+                                <format_updater_user_id type="integer">3826800</format_updater_user_id>
+                                <image_updater_user_id type="integer">3826800</image_updater_user_id>
+                                <isbn_updater_user_id type="integer">-101</isbn_updater_user_id>
+                                <isbn13_updater_user_id type="integer">-101</isbn13_updater_user_id>
+                                <language_updater_user_id type="integer">17155659</language_updater_user_id>
+                                <num_pages_updater_user_id type="integer">3826800</num_pages_updater_user_id>
+                                <publication_date_updater_user_id type="integer">4319355</publication_date_updater_user_id>
+                                <publisher_updater_user_id type="integer">3826800</publisher_updater_user_id>
+                                <title_updater_user_id type="integer">17155659</title_updater_user_id>
+                                <url_updater_user_id type="integer" nil="true"/>
+                                <title_language_code nil="true"/>
+                                <publisher_language_code nil="true"/>
+                                <description_language_code nil="true"/>
+                                <asin_updater_user_id type="integer" nil="true"/>
+                                <book_uri>kca://book/amzn1.gr.book.v1.uGIy596PfnAYIeJTvzL5Nw</book_uri>
+                                <author>
+                                    <id type="integer">1858</id>
+                                    <name>Kim Stanley Robinson</name>
+                                    <updated_at type="datetime">2019-12-01T13:46:24+00:00</updated_at>
+                                    <created_at type="datetime">2006-10-22T11:35:33+00:00</created_at>
+                                    <searched_for_at type="datetime">2007-02-02T23:38:42+00:00</searched_for_at>
+                                    <image_uploaded_at type="datetime">2013-08-19T23:31:29+00:00</image_uploaded_at>
+                                    <user_id type="integer" nil="true"/>
+                                    <gender>M</gender>
+                                    <country_code>US</country_code>
+                                    <born_at type="date">1952-03-23</born_at>
+                                    <died_at type="datetime" nil="true"/>
+                                    <about>Kim Stanley Robinson is an American science fiction writer, probably best known for his award-winning Mars trilogy.
+
+His work delves into ecological and sociological themes regularly, and many of his novels appear to be the direct result of his own scientific fascinations, such as the 15 years of research and lifelong fascination with Mars which culminated in his most famous work. He has, due to his fascination with Mars, become a member of the Mars Society.
+
+Robinson's work has been labeled by reviewers as "literary science fiction".
+
+&lt;i&gt;Excerpted from &lt;a href="http://en.wikipedia.org/wiki/Kim_Stanley_Robinson"&gt;Wikipedia&lt;/a&gt;.&lt;/i&gt;</about>
+                                    <uploader_user_id type="integer">603238</uploader_user_id>
+                                    <image_copyright>Photo credit ©SFXFuture Publishing Ltd </image_copyright>
+                                    <influences></influences>
+                                    <url>http://kimstanleyrobinson.info/</url>
+                                    <genre1>Science Fiction &amp; Fantasy</genre1>
+                                    <genre2></genre2>
+                                    <genre3></genre3>
+                                    <books_count type="integer">771</books_count>
+                                    <reviews_count type="integer">464181</reviews_count>
+                                    <ratings_sum type="integer">793886</ratings_sum>
+                                    <works_count type="integer">193</works_count>
+                                    <hometown>Waukegen, Illinois</hometown>
+                                    <rating_dist>5:4512|4:6333|3:4682|2:1418|1:449|total:17394</rating_dist>
+                                    <s3_image_at type="datetime">2015-05-14T22:54:20+00:00</s3_image_at>
+                                    <ratings_count type="integer">209777</ratings_count>
+                                    <text_reviews_count type="integer">16272</text_reviews_count>
+                                    <author_program_at type="datetime" nil="true"/>
+                                    <postal_code nil="true"/>
+                                    <fanships_count type="integer">991</fanships_count>
+                                    <best_book_id type="integer">77507</best_book_id>
+                                    <name_language_code nil="true"/>
+                                    <sort_by_name>robinson, kim stanley</sort_by_name>
+                                    <shelf_display_name>Robinson, Kim Stanley</shelf_display_name>
+                                    <gender_custom nil="true"/>
+                                    <gender_pronoun nil="true"/>
+                                    <author_uri>kca://author/amzn1.gr.author.v1.So2hTXqy1mLaZgtGKJimvA</author_uri>
+                                </author>
+                            </book>
+                        </review>
+                    </read_status>
+                </object>
+            </update>
+            <update type="readstatus">
+                <action_text>
+                    <![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/3036202476">The Moonstone</a>]]>
+                </action_text>
+                <link>https://www.goodreads.com/read_statuses/3205542096</link>
+                <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                <actor>
+                    <id type="integer">4812558</id>
+                    <name>Brian Koser</name>
+                    <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                    <link>https://www.goodreads.com/user/show/4812558-brian-koser</link>
+                </actor>
+                <updated_at>Mon, 04 Nov 2019 06:48:14 -0800</updated_at>
+                <object>
+                    <read_status>
+                        <id type="integer">3205542096</id>
+                        <review_id type="integer">3036202476</review_id>
+                        <user_id type="integer">4812558</user_id>
+                        <old_status nil="true"/>
+                        <status>to-read</status>
+                        <updated_at type="datetime">2019-11-04T14:48:14+00:00</updated_at>
+                        <review>
+                            <id type="integer">3036202476</id>
+                            <user_id type="integer">4812558</user_id>
+                            <book_id type="integer">6138</book_id>
+                            <rating type="integer">0</rating>
+                            <read_status>to-read</read_status>
+                            <sell_flag type="boolean">false</sell_flag>
+                            <review nil="true"/>
+                            <recommendation nil="true"/>
+                            <read_at type="datetime" nil="true"/>
+                            <updated_at type="datetime">2019-11-04T14:48:14+00:00</updated_at>
+                            <created_at type="datetime">2019-11-04T14:48:14+00:00</created_at>
+                            <comments_count type="integer">0</comments_count>
+                            <weight type="integer">0</weight>
+                            <ratings_sum type="integer">0</ratings_sum>
+                            <ratings_count type="integer">0</ratings_count>
+                            <spoiler_flag type="boolean">false</spoiler_flag>
+                            <recommender_user_id1 type="integer">0</recommender_user_id1>
+                            <recommender_user_name1 nil="true"/>
+                            <work_id type="integer">1044477</work_id>
+                            <last_comment_at type="datetime" nil="true"/>
+                            <started_at type="datetime" nil="true"/>
+                            <hidden_flag type="boolean">false</hidden_flag>
+                            <language_code type="integer" nil="true"/>
+                            <last_revision_at type="datetime">2019-11-04T14:48:14+00:00</last_revision_at>
+                            <non_friends_rating_count type="integer">0</non_friends_rating_count>
+                            <encrypted_notes nil="true"/>
+                            <book_uri>kca://book/amzn1.gr.book.v1.njzc_v4_2HU-VH6I81c_iQ</book_uri>
+                            <notes nil="true"/>
+                            <book>
+                                <id type="integer">6138</id>
+                                <work_id type="integer">1044477</work_id>
+                                <isbn>0375757856</isbn>
+                                <isbn13>9780375757853</isbn13>
+                                <title>The Moonstone</title>
+                                <sort_by_title>moonstone, the</sort_by_title>
+                                <author_id type="integer">4012</author_id>
+                                <author_role nil="true"/>
+                                <asin nil="true"/>
+                                <description nil="true"/>
+                                <format>Paperback</format>
+                                <publication_year type="integer">2001</publication_year>
+                                <publication_month type="integer">9</publication_month>
+                                <publication_day type="integer">11</publication_day>
+                                <num_pages type="integer">528</num_pages>
+                                <publisher>Modern Library</publisher>
+                                <language_code>eng</language_code>
+                                <edition_information nil="true"/>
+                                <url nil="true"/>
+                                <source_url nil="true"/>
+                                <image_uploaded_at type="datetime">2014-06-19T15:39:42+00:00</image_uploaded_at>
+                                <s3_image_at type="datetime">2015-05-16T14:48:48+00:00</s3_image_at>
+                                <reviews_count type="integer">118595</reviews_count>
+                                <ratings_sum type="integer">230501</ratings_sum>
+                                <ratings_count type="integer">58950</ratings_count>
+                                <text_reviews_count type="integer">2772</text_reviews_count>
+                                <book_authors_count type="integer">0</book_authors_count>
+                                <updated_at type="datetime">2017-12-21T07:10:34+00:00</updated_at>
+                                <created_at type="datetime">2006-12-08T05:20:33+00:00</created_at>
+                                <author_id_updater_user_id type="integer">-50</author_id_updater_user_id>
+                                <author_role_updater_user_id type="integer">5601063</author_role_updater_user_id>
+                                <description_updater_user_id type="integer">66648866</description_updater_user_id>
+                                <edition_information_updater_user_id type="integer" nil="true"/>
+                                <format_updater_user_id type="integer">-50</format_updater_user_id>
+                                <image_updater_user_id type="integer">-51</image_updater_user_id>
+                                <isbn_updater_user_id type="integer">-50</isbn_updater_user_id>
+                                <isbn13_updater_user_id type="integer">-50</isbn13_updater_user_id>
+                                <language_updater_user_id type="integer">5341034</language_updater_user_id>
+                                <num_pages_updater_user_id type="integer">-50</num_pages_updater_user_id>
+                                <publication_date_updater_user_id type="integer">-50</publication_date_updater_user_id>
+                                <publisher_updater_user_id type="integer">-50</publisher_updater_user_id>
+                                <title_updater_user_id type="integer">1409246</title_updater_user_id>
+                                <url_updater_user_id type="integer">66648866</url_updater_user_id>
+                                <title_language_code nil="true"/>
+                                <publisher_language_code nil="true"/>
+                                <description_language_code nil="true"/>
+                                <asin_updater_user_id type="integer" nil="true"/>
+                                <book_uri>kca://book/amzn1.gr.book.v1.njzc_v4_2HU-VH6I81c_iQ</book_uri>
+                                <author>
+                                    <id type="integer">4012</id>
+                                    <name>Wilkie Collins</name>
+                                    <updated_at type="datetime">2019-12-02T14:26:58+00:00</updated_at>
+                                    <created_at type="datetime">2006-12-08T04:51:28+00:00</created_at>
+                                    <searched_for_at type="datetime">2007-03-07T23:29:37+00:00</searched_for_at>
+                                    <image_uploaded_at type="datetime">2007-10-12T20:48:19+00:00</image_uploaded_at>
+                                    <user_id type="integer" nil="true"/>
+                                    <gender>M</gender>
+                                    <country_code>GB</country_code>
+                                    <born_at type="date">1824-01-08</born_at>
+                                    <died_at type="date">1889-09-23</died_at>
+                                    <about>A close friend of Charles Dickens from their meeting in March 1851 until Dickens' death in June 1870, William Wilkie Collins was one of the best known, best loved, and, for a time, best paid of Victorian fiction writers. But after his death, his reputation declined as Dickens' bloomed. 
+
+Now, Collins is being given more critical and popular attention than he has received for 50 years. Most of his books are in print, and all are now in e-text.  He is studied widely; new film, television, and radio versions of some of his books have been made; and all of his letters have been published. However, there is still much to be discovered about this superstar of Victorian fiction.
+
+Born in Marylebone, London in 1824, Collins' family enrolled him at the Maida Hill Academy in 1835, but then took him to France and Italy with them between 1836 and 1838. Returning to England, Collins attended Cole's boarding school, and completed his education in 1841, after which he was apprenticed to the tea merchants Antrobus &amp; Co. in the Strand. 
+
+In 1846, Collins became a law student at Lincoln's Inn, and was called to the bar in 1851, although he never practised. It was in 1848, a year after the death of his father, that he published his first book, 'The Memoirs of the Life of William Collins, Esq., R.A'., to good reviews. 
+
+The 1860s saw Collins' creative high-point, and it was during this decade that he achieved fame and critical acclaim, with his four major novels, 'The Woman in White' (1860), 'No Name' (1862), 'Armadale' (1866) and 'The Moonstone' (1868). 'The Moonstone', is seen by many as the first true detective novel T. S. Eliot called it "the first, the longest, and the best of modern English detective novels ..." in a genre invented by Collins and not by Poe. </about>
+                                    <uploader_user_id type="integer">395038</uploader_user_id>
+                                    <image_copyright>http://www.nndb.com/people/325/000052169/</image_copyright>
+                                    <influences>Charles Dickens</influences>
+                                    <url>http://www.wilkiecollins.com/</url>
+                                    <genre1>Fiction</genre1>
+                                    <genre2>Mystery</genre2>
+                                    <genre3>Travel</genre3>
+                                    <books_count type="integer">8935</books_count>
+                                    <reviews_count type="integer">541566</reviews_count>
+                                    <ratings_sum type="integer">923981</ratings_sum>
+                                    <works_count type="integer">1031</works_count>
+                                    <hometown>London, England</hometown>
+                                    <rating_dist>5:6025|4:8394|3:5071|2:1089|1:270|total:20849</rating_dist>
+                                    <s3_image_at type="datetime">2015-05-14T22:55:02+00:00</s3_image_at>
+                                    <ratings_count type="integer">235398</ratings_count>
+                                    <text_reviews_count type="integer">14863</text_reviews_count>
+                                    <author_program_at type="datetime" nil="true"/>
+                                    <postal_code nil="true"/>
+                                    <fanships_count type="integer">953</fanships_count>
+                                    <best_book_id type="integer">5890</best_book_id>
+                                    <name_language_code nil="true"/>
+                                    <sort_by_name>collins, wilkie</sort_by_name>
+                                    <shelf_display_name>Collins, Wilkie</shelf_display_name>
+                                    <gender_custom nil="true"/>
+                                    <gender_pronoun nil="true"/>
+                                    <author_uri>kca://author/amzn1.gr.author.v1.8AAPz4Zqqcae2P0mOd3e4g</author_uri>
+                                </author>
+                            </book>
+                        </review>
+                    </read_status>
+                </object>
+            </update>
+            <update type="review">
+                <action_text>
+                    <![CDATA[gave 5 stars to <a href="https://www.goodreads.com/book/show/98573.Harold_and_the_Purple_Crayon">Harold and the Purple Crayon (Hardcover)</a> by<a href="https://www.goodreads.com/author/show/56700.Crockett_Johnson">Crockett Johnson</a>]]>
+                </action_text>
+                <link>https://www.goodreads.com/review/show/3032270909</link>
+                <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327390957l/98573._SX50_.jpg</image_url>
+                <actor>
+                    <id type="integer">4812558</id>
+                    <name>Brian Koser</name>
+                    <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                    <link>https://www.goodreads.com/user/show/4812558-brian-koser</link>
+                </actor>
+                <updated_at>Thu, 31 Oct 2019 19:52:36 -0700</updated_at>
+                <action type="rating">
+                    <rating>5</rating>
+                </action>
+                <object>
+                    <book>
+                        <id>98573</id>
+                        <title>Harold and the Purple Crayon</title>
+                        <link>https://www.goodreads.com/book/show/98573.Harold_and_the_Purple_Crayon</link>
+                        <authors>
+                            <author>
+                                <id>56700</id>
+                                <name>Crockett Johnson</name>
+                                <role></role>
+                                <image_url nophoto='false'>
+                                    <![CDATA[https://images.gr-assets.com/authors/1210182151p5/56700.jpg]]>
+                                </image_url>
+                                <small_image_url nophoto='false'>
+                                    <![CDATA[https://images.gr-assets.com/authors/1210182151p2/56700.jpg]]>
+                                </small_image_url>
+                                <link>
+                                    <![CDATA[https://www.goodreads.com/author/show/56700.Crockett_Johnson]]>
+                                </link>
+                                <average_rating>4.23</average_rating>
+                                <ratings_count>136815</ratings_count>
+                                <text_reviews_count>2874</text_reviews_count>
+                            </author>
+                        </authors>
+                    </book>
+                </object>
+                <body>
+                    <![CDATA[GUYS did you know Christopher Nolan's <i>Inception</i> was an adaptation?]]>
+                </body>
+            </update>
+            <update type="review">
+                <action_text>
+                    <![CDATA[gave 2 stars to <a href="https://www.goodreads.com/book/show/900068.The_Berenstain_Bears_and_the_Spooky_Old_Tree">The Berenstain Bears and the Spooky Old Tree (Hardcover)</a> by<a href="https://www.goodreads.com/author/show/26886.Stan_Berenstain">Stan Berenstain</a>]]>
+                </action_text>
+                <link>https://www.goodreads.com/review/show/3032262500</link>
+                <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320553758l/900068._SX50_.jpg</image_url>
+                <actor>
+                    <id type="integer">4812558</id>
+                    <name>Brian Koser</name>
+                    <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                    <link>https://www.goodreads.com/user/show/4812558-brian-koser</link>
+                </actor>
+                <updated_at>Thu, 31 Oct 2019 19:41:42 -0700</updated_at>
+                <action type="rating">
+                    <rating>2</rating>
+                </action>
+                <object>
+                    <book>
+                        <id>900068</id>
+                        <title>
+                            <![CDATA[The Berenstain Bears and the Spooky Old Tree]]>
+                        </title>
+                        <link>https://www.goodreads.com/book/show/900068.The_Berenstain_Bears_and_the_Spooky_Old_Tree</link>
+                        <authors>
+                            <author>
+                                <id>26886</id>
+                                <name>Stan Berenstain</name>
+                                <role></role>
+                                <image_url nophoto='false'>
+                                    <![CDATA[https://images.gr-assets.com/authors/1200679139p5/26886.jpg]]>
+                                </image_url>
+                                <small_image_url nophoto='false'>
+                                    <![CDATA[https://images.gr-assets.com/authors/1200679139p2/26886.jpg]]>
+                                </small_image_url>
+                                <link>
+                                    <![CDATA[https://www.goodreads.com/author/show/26886.Stan_Berenstain]]>
+                                </link>
+                                <average_rating>4.10</average_rating>
+                                <ratings_count>364754</ratings_count>
+                                <text_reviews_count>7260</text_reviews_count>
+                            </author>
+                        </authors>
+                    </book>
+                </object>
+                <body>
+                    <![CDATA[One characteristic of great art is that you can engage with it over and over and continue to glean new meaning. This principle is born out in the acclaimed 20th century classic, "The Spooky Old Tree".<br /><br />On the first few reads, I thought it was a straightforward tale of children running through a spo...<a href="https://www.goodreads.com/review/show/3032262500">more...</a>]]>
+                </body>
+            </update>
+            <update type="readstatus">
+                <action_text>
+                    <![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/3028604962">The Word Is Murder (Hawthorne, #1)</a>]]>
+                </action_text>
+                <link>https://www.goodreads.com/read_statuses/3195424620</link>
+                <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                <actor>
+                    <id type="integer">4812558</id>
+                    <name>Brian Koser</name>
+                    <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                    <link>https://www.goodreads.com/user/show/4812558-brian-koser</link>
+                </actor>
+                <updated_at>Mon, 28 Oct 2019 16:15:38 -0700</updated_at>
+                <object>
+                    <read_status>
+                        <id type="integer">3195424620</id>
+                        <review_id type="integer">3028604962</review_id>
+                        <user_id type="integer">4812558</user_id>
+                        <old_status nil="true"/>
+                        <status>to-read</status>
+                        <updated_at type="datetime">2019-10-28T23:15:38+00:00</updated_at>
+                        <review>
+                            <id type="integer">3028604962</id>
+                            <user_id type="integer">4812558</user_id>
+                            <book_id type="integer">36204075</book_id>
+                            <rating type="integer">0</rating>
+                            <read_status>to-read</read_status>
+                            <sell_flag type="boolean">false</sell_flag>
+                            <review nil="true"/>
+                            <recommendation nil="true"/>
+                            <read_at type="datetime" nil="true"/>
+                            <updated_at type="datetime">2019-10-28T23:16:00+00:00</updated_at>
+                            <created_at type="datetime">2019-10-28T23:15:37+00:00</created_at>
+                            <comments_count type="integer">0</comments_count>
+                            <weight type="integer">0</weight>
+                            <ratings_sum type="integer">0</ratings_sum>
+                            <ratings_count type="integer">0</ratings_count>
+                            <spoiler_flag type="boolean">false</spoiler_flag>
+                            <recommender_user_id1 type="integer">0</recommender_user_id1>
+                            <recommender_user_name1 nil="true"/>
+                            <work_id type="integer">54695752</work_id>
+                            <last_comment_at type="datetime" nil="true"/>
+                            <started_at type="datetime" nil="true"/>
+                            <hidden_flag type="boolean">false</hidden_flag>
+                            <language_code type="integer" nil="true"/>
+                            <last_revision_at type="datetime">2019-10-28T23:16:00+00:00</last_revision_at>
+                            <non_friends_rating_count type="integer">0</non_friends_rating_count>
+                            <encrypted_notes nil="true"/>
+                            <book_uri>kca://book/amzn1.gr.book.v1.3YQ8_RlXQ4qzrnLj8H1KnA</book_uri>
+                            <notes nil="true"/>
+                            <book>
+                                <id type="integer">36204075</id>
+                                <work_id type="integer">54695752</work_id>
+                                <isbn>0062676784</isbn>
+                                <isbn13>9780062676788</isbn13>
+                                <title>The Word Is Murder (Hawthorne, #1)</title>
+                                <sort_by_title>word is murder, the (hawthorne, #1)</sort_by_title>
+                                <author_id type="integer">32590</author_id>
+                                <author_role nil="true"/>
+                                <asin nil="true"/>
+                                <description nil="true"/>
+                                <format>Hardcover</format>
+                                <publication_year type="integer">2018</publication_year>
+                                <publication_month type="integer">6</publication_month>
+                                <publication_day type="integer">5</publication_day>
+                                <num_pages type="integer">390</num_pages>
+                                <publisher>Harper</publisher>
+                                <language_code>eng</language_code>
+                                <edition_information nil="true"/>
+                                <url nil="true"/>
+                                <source_url nil="true"/>
+                                <image_uploaded_at type="datetime">2017-12-20T23:10:04+00:00</image_uploaded_at>
+                                <s3_image_at type="datetime">2018-01-21T12:23:33+00:00</s3_image_at>
+                                <reviews_count type="integer">40185</reviews_count>
+                                <ratings_sum type="integer">63465</ratings_sum>
+                                <ratings_count type="integer">16362</ratings_count>
+                                <text_reviews_count type="integer">2582</text_reviews_count>
+                                <book_authors_count type="integer">0</book_authors_count>
+                                <updated_at type="datetime">2018-11-26T12:38:42+00:00</updated_at>
+                                <created_at type="datetime">2017-09-08T13:31:08+00:00</created_at>
+                                <author_id_updater_user_id type="integer">-47</author_id_updater_user_id>
+                                <author_role_updater_user_id type="integer">-9</author_role_updater_user_id>
+                                <description_updater_user_id type="integer">3236194</description_updater_user_id>
+                                <edition_information_updater_user_id type="integer" nil="true"/>
+                                <format_updater_user_id type="integer">-47</format_updater_user_id>
+                                <image_updater_user_id type="integer">11394881</image_updater_user_id>
+                                <isbn_updater_user_id type="integer">-47</isbn_updater_user_id>
+                                <isbn13_updater_user_id type="integer">-47</isbn13_updater_user_id>
+                                <language_updater_user_id type="integer">5839311</language_updater_user_id>
+                                <num_pages_updater_user_id type="integer">5401826</num_pages_updater_user_id>
+                                <publication_date_updater_user_id type="integer">-47</publication_date_updater_user_id>
+                                <publisher_updater_user_id type="integer">-47</publisher_updater_user_id>
+                                <title_updater_user_id type="integer">4876540</title_updater_user_id>
+                                <url_updater_user_id type="integer" nil="true"/>
+                                <title_language_code nil="true"/>
+                                <publisher_language_code nil="true"/>
+                                <description_language_code nil="true"/>
+                                <asin_updater_user_id type="integer" nil="true"/>
+                                <book_uri>kca://book/amzn1.gr.book.v1.3YQ8_RlXQ4qzrnLj8H1KnA</book_uri>
+                                <author>
+                                    <id type="integer">32590</id>
+                                    <name>Anthony Horowitz</name>
+                                    <updated_at type="datetime">2019-12-02T15:47:20+00:00</updated_at>
+                                    <created_at type="datetime">2007-02-03T05:38:05+00:00</created_at>
+                                    <searched_for_at type="datetime">2007-03-11T22:02:58+00:00</searched_for_at>
+                                    <image_uploaded_at type="datetime">2011-03-26T21:55:49+00:00</image_uploaded_at>
+                                    <user_id type="integer">66828607</user_id>
+                                    <gender nil="true"/>
+                                    <country_code>GB</country_code>
+                                    <born_at type="date">1956-04-05</born_at>
+                                    <died_at type="datetime" nil="true"/>
+                                    <about>Anthony Horowitz, OBE is ranked alongside [a:Enid Blyton|10657] and [a:Mark A. Cooper|1571853] as "The most original and best spy-kids authors of the century." (New York Times). Anthony has been writing since the age of eight, and professionally since the age of twenty. In addition to the highly successful Alex Rider books, he is also the writer and creator of award winning detective series Foyle’s War, and more recently event drama Collision, among his other television works he has written episodes for Poirot, Murder in Mind, Midsomer Murders and Murder Most Horrid. Anthony became patron to East Anglia Children’s Hospices in 2009. 
+
+On 19 January 2011, the estate of Arthur Conan Doyle announced that Horowitz was to be the writer of a new Sherlock Holmes novel, the first such effort to receive an official endorsement from them and to be entitled the House of Silk.
+
+http://us.macmillan.com/author/anthonyhorowitz</about>
+                                    <uploader_user_id type="integer">777924</uploader_user_id>
+                                    <image_copyright>http://www.anthonyhorowitz.com/gallery/
+Implied consent with photo albums on website</image_copyright>
+                                    <influences>[a:Charles Dickens|239579]</influences>
+                                    <url>http://www.anthonyhorowitz.com/</url>
+                                    <genre1>Children's Books</genre1>
+                                    <genre2>Mystery &amp; Thrillers</genre2>
+                                    <genre3>Science Fiction &amp; Fantasy</genre3>
+                                    <books_count type="integer">2302</books_count>
+                                    <reviews_count type="integer">1155295</reviews_count>
+                                    <ratings_sum type="integer">2758217</ratings_sum>
+                                    <works_count type="integer">188</works_count>
+                                    <hometown>Stanmore, Middlesex</hometown>
+                                    <rating_dist>5:25635|4:20592|3:12451|2:2676|1:529|total:61883</rating_dist>
+                                    <s3_image_at type="datetime">2015-05-14T23:05:37+00:00</s3_image_at>
+                                    <ratings_count type="integer">681311</ratings_count>
+                                    <text_reviews_count type="integer">42237</text_reviews_count>
+                                    <author_program_at type="datetime">2017-04-12T17:50:19+00:00</author_program_at>
+                                    <postal_code nil="true"/>
+                                    <fanships_count type="integer">3293</fanships_count>
+                                    <best_book_id type="integer">136782</best_book_id>
+                                    <name_language_code nil="true"/>
+                                    <sort_by_name>horowitz, anthony</sort_by_name>
+                                    <shelf_display_name>Horowitz, Anthony</shelf_display_name>
+                                    <gender_custom nil="true"/>
+                                    <gender_pronoun nil="true"/>
+                                    <author_uri>kca://author/amzn1.gr.author.v1.RrSMOmMdrN4SEIrHAmq-fA</author_uri>
+                                </author>
+                            </book>
+                        </review>
+                    </read_status>
+                </object>
+            </update>
+            <update type="readstatus">
+                <action_text>
+                    <![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/3028604709">The Haunting of Hill House</a>]]>
+                </action_text>
+                <link>https://www.goodreads.com/read_statuses/3195424294</link>
+                <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                <actor>
+                    <id type="integer">4812558</id>
+                    <name>Brian Koser</name>
+                    <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                    <link>https://www.goodreads.com/user/show/4812558-brian-koser</link>
+                </actor>
+                <updated_at>Mon, 28 Oct 2019 16:15:20 -0700</updated_at>
+                <object>
+                    <read_status>
+                        <id type="integer">3195424294</id>
+                        <review_id type="integer">3028604709</review_id>
+                        <user_id type="integer">4812558</user_id>
+                        <old_status nil="true"/>
+                        <status>to-read</status>
+                        <updated_at type="datetime">2019-10-28T23:15:20+00:00</updated_at>
+                        <review>
+                            <id type="integer">3028604709</id>
+                            <user_id type="integer">4812558</user_id>
+                            <book_id type="integer">89717</book_id>
+                            <rating type="integer">0</rating>
+                            <read_status>to-read</read_status>
+                            <sell_flag type="boolean">false</sell_flag>
+                            <review nil="true"/>
+                            <recommendation nil="true"/>
+                            <read_at type="datetime" nil="true"/>
+                            <updated_at type="datetime">2019-10-28T23:15:33+00:00</updated_at>
+                            <created_at type="datetime">2019-10-28T23:15:19+00:00</created_at>
+                            <comments_count type="integer">0</comments_count>
+                            <weight type="integer">0</weight>
+                            <ratings_sum type="integer">0</ratings_sum>
+                            <ratings_count type="integer">0</ratings_count>
+                            <spoiler_flag type="boolean">false</spoiler_flag>
+                            <recommender_user_id1 type="integer">0</recommender_user_id1>
+                            <recommender_user_name1 nil="true"/>
+                            <work_id type="integer">3627</work_id>
+                            <last_comment_at type="datetime" nil="true"/>
+                            <started_at type="datetime" nil="true"/>
+                            <hidden_flag type="boolean">false</hidden_flag>
+                            <language_code type="integer" nil="true"/>
+                            <last_revision_at type="datetime">2019-10-28T23:15:33+00:00</last_revision_at>
+                            <non_friends_rating_count type="integer">0</non_friends_rating_count>
+                            <encrypted_notes nil="true"/>
+                            <book_uri>kca://book/amzn1.gr.book.v1.-xV8ymksLPGsSQkxuIOa3A</book_uri>
+                            <notes nil="true"/>
+                            <book>
+                                <id type="integer">89717</id>
+                                <work_id type="integer">3627</work_id>
+                                <isbn>0143039989</isbn>
+                                <isbn13>9780143039983</isbn13>
+                                <title>The Haunting of Hill House</title>
+                                <sort_by_title>haunting of hill house, the</sort_by_title>
+                                <author_id type="integer">13388</author_id>
+                                <author_role nil="true"/>
+                                <asin nil="true"/>
+                                <description>First published in 1959, Shirley Jackson's &lt;i&gt;The Haunting of Hill House&lt;/i&gt; has been hailed as a perfect work of unnerving terror. It is the story of four seekers who arrive at a notoriously unfriendly pile called Hill House: Dr. Montague, an occult scholar looking for solid evidence of a "haunting"; Theodora, the lighthearted assistant; Eleanor, a friendless, fragile young woman well acquainted with poltergeists; and Luke, the future heir of Hill House. At first, their stay seems destined to be merely a spooky encounter with inexplicable phenomena. But Hill House is gathering its powers—and soon it will choose one of them to make its own.</description>
+                                <format>Paperback</format>
+                                <publication_year type="integer">2006</publication_year>
+                                <publication_month type="integer">11</publication_month>
+                                <publication_day type="integer">28</publication_day>
+                                <num_pages type="integer">182</num_pages>
+                                <publisher>Penguin Classics</publisher>
+                                <language_code>eng</language_code>
+                                <edition_information nil="true"/>
+                                <url nil="true"/>
+                                <source_url nil="true"/>
+                                <image_uploaded_at type="datetime">2012-01-29T21:08:56+00:00</image_uploaded_at>
+                                <s3_image_at type="datetime">2018-10-15T20:19:27+00:00</s3_image_at>
+                                <reviews_count type="integer">252742</reviews_count>
+                                <ratings_sum type="integer">398774</ratings_sum>
+                                <ratings_count type="integer">103102</ratings_count>
+                                <text_reviews_count type="integer">8578</text_reviews_count>
+                                <book_authors_count type="integer">1</book_authors_count>
+                                <updated_at type="datetime">2019-10-28T17:51:56+00:00</updated_at>
+                                <created_at type="datetime">2007-02-11T03:11:30+00:00</created_at>
+                                <author_id_updater_user_id type="integer">-50</author_id_updater_user_id>
+                                <author_role_updater_user_id type="integer">974210</author_role_updater_user_id>
+                                <description_updater_user_id type="integer">58645221</description_updater_user_id>
+                                <edition_information_updater_user_id type="integer" nil="true"/>
+                                <format_updater_user_id type="integer">-50</format_updater_user_id>
+                                <image_updater_user_id type="integer">23102950</image_updater_user_id>
+                                <isbn_updater_user_id type="integer">-50</isbn_updater_user_id>
+                                <isbn13_updater_user_id type="integer">-50</isbn13_updater_user_id>
+                                <language_updater_user_id type="integer">3919132</language_updater_user_id>
+                                <num_pages_updater_user_id type="integer">5871312</num_pages_updater_user_id>
+                                <publication_date_updater_user_id type="integer">-50</publication_date_updater_user_id>
+                                <publisher_updater_user_id type="integer">-50</publisher_updater_user_id>
+                                <title_updater_user_id type="integer">1703299</title_updater_user_id>
+                                <url_updater_user_id type="integer" nil="true"/>
+                                <title_language_code nil="true"/>
+                                <publisher_language_code nil="true"/>
+                                <description_language_code nil="true"/>
+                                <asin_updater_user_id type="integer" nil="true"/>
+                                <book_uri>kca://book/amzn1.gr.book.v1.-xV8ymksLPGsSQkxuIOa3A</book_uri>
+                                <author>
+                                    <id type="integer">13388</id>
+                                    <name>Shirley Jackson</name>
+                                    <updated_at type="datetime">2019-12-02T14:46:51+00:00</updated_at>
+                                    <created_at type="datetime">2006-12-30T05:31:15+00:00</created_at>
+                                    <searched_for_at type="datetime">2007-02-11T03:11:58+00:00</searched_for_at>
+                                    <image_uploaded_at type="datetime">2019-02-15T17:24:28+00:00</image_uploaded_at>
+                                    <user_id type="integer" nil="true"/>
+                                    <gender>F</gender>
+                                    <country_code>US</country_code>
+                                    <born_at type="date">1916-12-14</born_at>
+                                    <died_at type="date">1965-08-08</died_at>
+                                    <about>Shirley Jackson was an influential American author. A popular writer in her time, her work has received increasing attention from literary critics in recent years. She has influenced such writers as Stephen King, Nigel Kneale, and Richard Matheson.
+
+She is best known for her dystopian short story, "The Lottery" (1948), which suggests there is a deeply unsettling underside to bucolic, smalltown America. In her critical biography of Shirley Jackson, Lenemaja Friedman notes that when Shirley Jackson's story "The Lottery" was published in the June 28, 1948, issue of &lt;i&gt;The New Yorker&lt;/i&gt;, it received a response that "no &lt;i&gt;New Yorker&lt;/i&gt; story had ever received." Hundreds of letters poured in that were characterized by, as Jackson put it, "bewilderment, speculation and old-fashioned abuse."
+
+Jackson's husband, the literary critic Stanley Edgar Hyman, wrote in his preface to a posthumous anthology of her work that "she consistently refused to be interviewed, to explain or promote her work in any fashion, or to take public stands and be the pundit of the Sunday supplements. She believed that her books would speak for her clearly enough over the years." Hyman insisted the darker aspects of Jackson's works were not, as some critics claimed, the product of "personal, even neurotic, fantasies", but that Jackson intended, as "a sensitive and faithful anatomy of our times, fitting symbols for our distressing world of the concentration camp and the Bomb", to mirror humanity's Cold War-era fears. Jackson may even have taken pleasure in the subversive impact of her work, as revealed by Hyman's statement that she "was always proud that the Union of South Africa banned &lt;i&gt;The Lottery&lt;/i&gt;', and she felt that they at least understood the story".
+
+In 1965, Jackson died of heart failure in her sleep, at her home in North Bennington Vermont, at the age of 48. 
+
+
+
+
+</about>
+                                    <uploader_user_id type="integer">5117003</uploader_user_id>
+                                    <image_copyright>https://en.m.wikipedia.org/wiki/Shirley_Jackson</image_copyright>
+                                    <influences></influences>
+                                    <url></url>
+                                    <genre1>Horror</genre1>
+                                    <genre2>Biographies &amp; Memoirs</genre2>
+                                    <genre3>Short Stories</genre3>
+                                    <books_count type="integer">962</books_count>
+                                    <reviews_count type="integer">866313</reviews_count>
+                                    <ratings_sum type="integer">1500986</ratings_sum>
+                                    <works_count type="integer">221</works_count>
+                                    <hometown>San Francisco, California</hometown>
+                                    <rating_dist>5:6572|4:8299|3:4743|2:1165|1:248|total:21027</rating_dist>
+                                    <s3_image_at type="datetime" nil="true"/>
+                                    <ratings_count type="integer">379071</ratings_count>
+                                    <text_reviews_count type="integer">33871</text_reviews_count>
+                                    <author_program_at type="datetime" nil="true"/>
+                                    <postal_code nil="true"/>
+                                    <fanships_count type="integer">1536</fanships_count>
+                                    <best_book_id type="integer">89717</best_book_id>
+                                    <name_language_code nil="true"/>
+                                    <sort_by_name>jackson, shirley</sort_by_name>
+                                    <shelf_display_name>Jackson, Shirley</shelf_display_name>
+                                    <gender_custom nil="true"/>
+                                    <gender_pronoun nil="true"/>
+                                    <author_uri>kca://author/amzn1.gr.author.v1.CurvrG0o2KhZUdS73ut9dQ</author_uri>
+                                </author>
+                            </book>
+                        </review>
+                    </read_status>
+                </object>
+            </update>
+            <update type="readstatus">
+                <action_text>
+                    <![CDATA[started reading <a only_path="false" href="https://www.goodreads.com/review/show/1414420459">The Name of the Wind (The Kingkiller Chronicle, #1)</a>]]>
+                </action_text>
+                <link>https://www.goodreads.com/read_statuses/3183621970</link>
+                <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                <actor>
+                    <id type="integer">4812558</id>
+                    <name>Brian Koser</name>
+                    <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                    <link>https://www.goodreads.com/user/show/4812558-brian-koser</link>
+                </actor>
+                <updated_at>Sun, 20 Oct 2019 21:34:19 -0700</updated_at>
+                <object>
+                    <read_status>
+                        <id type="integer">3183621970</id>
+                        <review_id type="integer">1414420459</review_id>
+                        <user_id type="integer">4812558</user_id>
+                        <old_status>to-read</old_status>
+                        <status>currently-reading</status>
+                        <updated_at type="datetime">2019-10-21T04:34:19+00:00</updated_at>
+                        <review>
+                            <id type="integer">1414420459</id>
+                            <user_id type="integer">4812558</user_id>
+                            <book_id type="integer">186074</book_id>
+                            <rating type="integer">3</rating>
+                            <read_status>read</read_status>
+                            <sell_flag type="boolean">false</sell_flag>
+                            <review>An enjoyable book, diminished by the Ernest Cline-ian middle section.
+
+I liked the writing overall. There are some modern phrases that seem out of place, but this world isn't medieval, so maybe that's on purpose. His characters are likeable, the plot is interesting. I would have devoured it in high school.
+
+Negatives: 
+
+The avoidance of blockbuster movie-type action scenes is great. That said, the plot and setting don't feel especially unique. The themes are good (the power of words, stories) but also feel like covered ground.
+
+I guess it goes with the YA territory, but some plot points were too spelled out. Trust your readers to remember what came before.
+
+I dislike Mary Sue/Gary Stu characters, but for Kvothe it mostly works. I do think the author missed an opportunity to lean hard into Kvothe building his reputation through deception. If he had, for example, faked his extensive knowledge instead of learning all things from his private wizard tutor at 12, I think you get a more interesting character.
+
+I wondered if Rothfuss was setting up Kvothe as an unreliable narrator, which would be another interesting way to handle the Mary Sue problem. Kvothe says something early on that made me look for that (all stories are lies, or something to that effect). But I didn't notice anything in his story that points to that. Maybe that comes up in book 2, or isn't something the author wanted to explore.
+
+My biggest problem with the book is the middle section. I really like Kvothe with his family and Kvothe on the streets of Tarbean; the heartfelt moments and the sad events worked for me. But when Kvothe gets to the university and interacts with the students, we start getting stories from /r/thathappened. He wins an argument with a bully and gets applause from the onlookers at the end. He tells a teacher that the class is too basic, the teacher invites him to teach the class, he gives the lecture and receives applause from his classmates. Almost all his interactions with women fall into this category. I'm convinced Ernest Cline took extensive notes from this section for his eventual use.
+
+So it's an odd book. More YA than I expected (a common trend), definitely flawed, but mostly enjoyable. I would read the sequel eventually, but apparently there's no rush.
+
+3.5 stars</review>
+                            <recommendation nil="true"/>
+                            <read_at type="datetime">2019-11-08T02:59:32+00:00</read_at>
+                            <updated_at type="datetime">2019-11-08T04:54:48+00:00</updated_at>
+                            <created_at type="datetime">2015-10-12T03:20:57+00:00</created_at>
+                            <comments_count type="integer">0</comments_count>
+                            <weight type="integer">400</weight>
+                            <ratings_sum type="integer">3</ratings_sum>
+                            <ratings_count type="integer">3</ratings_count>
+                            <spoiler_flag type="boolean">false</spoiler_flag>
+                            <recommender_user_id1 type="integer">0</recommender_user_id1>
+                            <recommender_user_name1></recommender_user_name1>
+                            <work_id type="integer">2502879</work_id>
+                            <last_comment_at type="datetime" nil="true"/>
+                            <started_at type="datetime">2019-10-21T04:34:19+00:00</started_at>
+                            <hidden_flag type="boolean">false</hidden_flag>
+                            <language_code type="integer" nil="true"/>
+                            <last_revision_at type="datetime">2019-11-08T04:54:48+00:00</last_revision_at>
+                            <non_friends_rating_count type="integer">0</non_friends_rating_count>
+                            <encrypted_notes></encrypted_notes>
+                            <book_uri>kca://book/amzn1.gr.book.v1.iUoduJh08Drcwhc9Kt94qg</book_uri>
+                            <notes></notes>
+                            <book>
+                                <id type="integer">186074</id>
+                                <work_id type="integer">2502879</work_id>
+                                <isbn>075640407X</isbn>
+                                <isbn13>9780756404079</isbn13>
+                                <title>The Name of the Wind (The Kingkiller Chronicle, #1)</title>
+                                <sort_by_title>name of the wind, the</sort_by_title>
+                                <author_id type="integer">108424</author_id>
+                                <author_role nil="true"/>
+                                <asin nil="true"/>
+                                <description>Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen. 
+
+The intimate narrative of his childhood in a troupe of traveling players, his years spent as a near-feral orphan in a crime-ridden city, his daringly brazen yet successful bid to enter a legendary school of magic, and his life as a fugitive after the murder of a king form a gripping coming-of-age story unrivaled in recent literature. 
+
+A high-action story written with a poet's hand, &lt;i&gt;The Name of the Wind&lt;/i&gt; is a masterpiece that will transport readers into the body and mind of a wizard.</description>
+                                <format>Hardcover</format>
+                                <publication_year type="integer">2007</publication_year>
+                                <publication_month type="integer">4</publication_month>
+                                <publication_day type="integer" nil="true"/>
+                                <num_pages type="integer">662</num_pages>
+                                <publisher>Penguin Group DAW</publisher>
+                                <language_code>eng</language_code>
+                                <edition_information nil="true"/>
+                                <url>http://www.nameofthewind.com</url>
+                                <source_url nil="true"/>
+                                <image_uploaded_at type="datetime">2018-01-10T13:05:15+00:00</image_uploaded_at>
+                                <s3_image_at type="datetime">2018-01-10T13:05:20+00:00</s3_image_at>
+                                <reviews_count type="integer">997874</reviews_count>
+                                <ratings_sum type="integer">2493731</ratings_sum>
+                                <ratings_count type="integer">548545</ratings_count>
+                                <text_reviews_count type="integer">28834</text_reviews_count>
+                                <book_authors_count type="integer">-2</book_authors_count>
+                                <updated_at type="datetime">2018-09-02T20:47:52+00:00</updated_at>
+                                <created_at type="datetime">2007-02-26T22:45:59+00:00</created_at>
+                                <author_id_updater_user_id type="integer">3571171</author_id_updater_user_id>
+                                <author_role_updater_user_id type="integer">2942657</author_role_updater_user_id>
+                                <description_updater_user_id type="integer">16824406</description_updater_user_id>
+                                <edition_information_updater_user_id type="integer">3192371</edition_information_updater_user_id>
+                                <format_updater_user_id type="integer">2202347</format_updater_user_id>
+                                <image_updater_user_id type="integer">4628840</image_updater_user_id>
+                                <isbn_updater_user_id type="integer">-50</isbn_updater_user_id>
+                                <isbn13_updater_user_id type="integer">-50</isbn13_updater_user_id>
+                                <language_updater_user_id type="integer">2121940</language_updater_user_id>
+                                <num_pages_updater_user_id type="integer">4920970</num_pages_updater_user_id>
+                                <publication_date_updater_user_id type="integer">4628840</publication_date_updater_user_id>
+                                <publisher_updater_user_id type="integer">1738709</publisher_updater_user_id>
+                                <title_updater_user_id type="integer">4628840</title_updater_user_id>
+                                <url_updater_user_id type="integer">428191</url_updater_user_id>
+                                <title_language_code nil="true"/>
+                                <publisher_language_code nil="true"/>
+                                <description_language_code nil="true"/>
+                                <asin_updater_user_id type="integer" nil="true"/>
+                                <book_uri>kca://book/amzn1.gr.book.v1.iUoduJh08Drcwhc9Kt94qg</book_uri>
+                                <author>
+                                    <id type="integer">108424</id>
+                                    <name>Patrick Rothfuss</name>
+                                    <updated_at type="datetime">2019-12-02T20:29:40+00:00</updated_at>
+                                    <created_at type="datetime">2007-02-26T22:45:59+00:00</created_at>
+                                    <searched_for_at type="datetime">2007-05-08T02:51:51+00:00</searched_for_at>
+                                    <image_uploaded_at type="datetime">2012-10-27T03:09:01+00:00</image_uploaded_at>
+                                    <user_id type="integer">922495</user_id>
+                                    <gender>M</gender>
+                                    <country_code>US</country_code>
+                                    <born_at type="date">1973-06-06</born_at>
+                                    <died_at type="datetime" nil="true"/>
+                                    <about>It all began when Pat Rothfuss was born to a marvelous set of parents. Throughout his formative years they encouraged him to do his best, gave him good advice, and were no doubt appropriately dismayed when he failed to live up to his full potential.
+
+In high-school Pat was something of a class clown. His hobbies included reading a novel or two a day and giving relationship advice to all his friends despite the fact that he had never so much as kissed a girl. He also role-played and wrote terrible stories about elves. He was pretty much a geek.
+
+Most of Pat's adult life has been spent in the University Wisconsin Stevens Point. In 1991 he started college in order to pursue a career in chemical engineering, then he considered clinical psychology. In 1993 he quit pretending he knew what he wanted to do with his life, changed his major to "undecided," and proceeded to study whatever amused him. He also began writing a book....
+
+For the next seven years Pat studied anthropology, philosophy, eastern religions, history, alchemy, parapsychology, literature, and writing. He studied six different martial arts, practiced improv comedy, learned how to pick locks, and became a skilled lover of women. He also began writing a satirical advice column which he continues to this day: The College Survivial Guide. Through all of this he continued to work on his novel.
+
+In 2000 Pat went to grad school for English literature. Grad school sucked and Pat hated it. However, Pat learned that he loved to teach. He left in 2002 with his masters degree, shaking the dust from his feet and vowing never to return. During this period of time his novel was rejected by roughly every agent in the known universe.
+
+Now Pat teaches half-time at his old school as an assistant-sub-lecturer. He is underpaid but generally left alone to do as he sees fit with his classes. He is advisor for the college feminists, the fencing club, and, oddly enough, a sorority. He still roll-plays occasionally, but now he does it in an extremely sophisticated, debonair way.
+
+Through a series of lucky breaks, he has wound up with the best agent and editor imaginable, and the first book of his trilogy has been published under the title "The Name of the Wind." 
+
+Though it has only been out since April 2007, it has already been sold in 26 foreign countries and won several awards. 
+
+Pat has been described as "a rough, earthy iconoclast with a pipeline to the divine in everyone's subconscious." But honestly, that person was pretty drunk at the time, so you might want to take it with a grain of salt.</about>
+                                    <uploader_user_id type="integer">922495</uploader_user_id>
+                                    <image_copyright>Mine. </image_copyright>
+                                    <influences></influences>
+                                    <url>http://www.patrickrothfuss.com/content/index.asp</url>
+                                    <genre1>Science Fiction &amp; Fantasy</genre1>
+                                    <genre2>Young Adult</genre2>
+                                    <genre3></genre3>
+                                    <books_count type="integer">569</books_count>
+                                    <reviews_count type="integer">2181144</reviews_count>
+                                    <ratings_sum type="integer">5191576</ratings_sum>
+                                    <works_count type="integer">38</works_count>
+                                    <hometown>Madison, Wisconsin</hometown>
+                                    <rating_dist>5:16331|4:6949|3:1967|2:462|1:182|total:25891</rating_dist>
+                                    <s3_image_at type="datetime">2015-05-14T23:17:16+00:00</s3_image_at>
+                                    <ratings_count type="integer">1159996</ratings_count>
+                                    <text_reviews_count type="integer">72569</text_reviews_count>
+                                    <author_program_at type="datetime" nil="true"/>
+                                    <postal_code nil="true"/>
+                                    <fanships_count type="integer">34012</fanships_count>
+                                    <best_book_id type="integer">186074</best_book_id>
+                                    <name_language_code nil="true"/>
+                                    <sort_by_name>rothfuss, patrick</sort_by_name>
+                                    <shelf_display_name>Rothfuss, Patrick</shelf_display_name>
+                                    <gender_custom nil="true"/>
+                                    <gender_pronoun nil="true"/>
+                                    <author_uri>kca://author/amzn1.gr.author.v1.OK_X6rOc-ss75X962O9SPw</author_uri>
+                                </author>
+                            </book>
+                        </review>
+                    </read_status>
+                </object>
+            </update>
+            <update type="readstatus">
+                <action_text>
+                    <![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/3016699407">Ninefox Gambit (The Machineries of Empire, #1)</a>]]>
+                </action_text>
+                <link>https://www.goodreads.com/read_statuses/3179432002</link>
+                <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                <actor>
+                    <id type="integer">4812558</id>
+                    <name>Brian Koser</name>
+                    <image_url>https://images.gr-assets.com/users/1529893704p2/4812558.jpg</image_url>
+                    <link>https://www.goodreads.com/user/show/4812558-brian-koser</link>
+                </actor>
+                <updated_at>Fri, 18 Oct 2019 05:33:29 -0700</updated_at>
+                <object>
+                    <read_status>
+                        <id type="integer">3179432002</id>
+                        <review_id type="integer">3016699407</review_id>
+                        <user_id type="integer">4812558</user_id>
+                        <old_status nil="true"/>
+                        <status>to-read</status>
+                        <updated_at type="datetime">2019-10-18T12:33:29+00:00</updated_at>
+                        <review>
+                            <id type="integer">3016699407</id>
+                            <user_id type="integer">4812558</user_id>
+                            <book_id type="integer">26118426</book_id>
+                            <rating type="integer">0</rating>
+                            <read_status>to-read</read_status>
+                            <sell_flag type="boolean">false</sell_flag>
+                            <review nil="true"/>
+                            <recommendation nil="true"/>
+                            <read_at type="datetime" nil="true"/>
+                            <updated_at type="datetime">2019-10-18T12:33:28+00:00</updated_at>
+                            <created_at type="datetime">2019-10-18T12:33:28+00:00</created_at>
+                            <comments_count type="integer">0</comments_count>
+                            <weight type="integer">0</weight>
+                            <ratings_sum type="integer">0</ratings_sum>
+                            <ratings_count type="integer">0</ratings_count>
+                            <spoiler_flag type="boolean">false</spoiler_flag>
+                            <recommender_user_id1 type="integer">0</recommender_user_id1>
+                            <recommender_user_name1 nil="true"/>
+                            <work_id type="integer">46065520</work_id>
+                            <last_comment_at type="datetime" nil="true"/>
+                            <started_at type="datetime" nil="true"/>
+                            <hidden_flag type="boolean">false</hidden_flag>
+                            <language_code type="integer" nil="true"/>
+                            <last_revision_at type="datetime">2019-10-18T12:33:28+00:00</last_revision_at>
+                            <non_friends_rating_count type="integer">0</non_friends_rating_count>
+                            <encrypted_notes nil="true"/>
+                            <book_uri>kca://book/amzn1.gr.book.v1.-etTPhr39pGIMi7i56QKlQ</book_uri>
+                            <notes nil="true"/>
+                            <book>
+                                <id type="integer">26118426</id>
+                                <work_id type="integer">46065520</work_id>
+                                <isbn nil="true"/>
+                                <isbn13 nil="true"/>
+                                <title>Ninefox Gambit (The Machineries of Empire, #1)</title>
+                                <sort_by_title>ninefox gambit (the machineries of empire, #1)</sort_by_title>
+                                <author_id type="integer">3001246</author_id>
+                                <author_role nil="true"/>
+                                <asin nil="true"/>
+                                <description nil="true"/>
+                                <format>Paperback</format>
+                                <publication_year type="integer">2016</publication_year>
+                                <publication_month type="integer">6</publication_month>
+                                <publication_day type="integer">14</publication_day>
+                                <num_pages type="integer">384</num_pages>
+                                <publisher>Solaris Books</publisher>
+                                <language_code>eng</language_code>
+                                <edition_information nil="true"/>
+                                <url nil="true"/>
+                                <source_url nil="true"/>
+                                <image_uploaded_at type="datetime">2015-11-03T13:31:01+00:00</image_uploaded_at>
+                                <s3_image_at type="datetime">2015-11-03T13:31:02+00:00</s3_image_at>
+                                <reviews_count type="integer">30258</reviews_count>
+                                <ratings_sum type="integer">29141</ratings_sum>
+                                <ratings_count type="integer">7724</ratings_count>
+                                <text_reviews_count type="integer">1486</text_reviews_count>
+                                <book_authors_count type="integer">0</book_authors_count>
+                                <updated_at type="datetime">2019-05-24T20:12:29+00:00</updated_at>
+                                <created_at type="datetime">2015-08-17T19:23:29+00:00</created_at>
+                                <author_id_updater_user_id type="integer">5862550</author_id_updater_user_id>
+                                <author_role_updater_user_id type="integer" nil="true"/>
+                                <description_updater_user_id type="integer">13059150</description_updater_user_id>
+                                <edition_information_updater_user_id type="integer" nil="true"/>
+                                <format_updater_user_id type="integer">198102</format_updater_user_id>
+                                <image_updater_user_id type="integer">13059150</image_updater_user_id>
+                                <isbn_updater_user_id type="integer" nil="true"/>
+                                <isbn13_updater_user_id type="integer" nil="true"/>
+                                <language_updater_user_id type="integer">5862550</language_updater_user_id>
+                                <num_pages_updater_user_id type="integer">198102</num_pages_updater_user_id>
+                                <publication_date_updater_user_id type="integer">13059150</publication_date_updater_user_id>
+                                <publisher_updater_user_id type="integer">5862550</publisher_updater_user_id>
+                                <title_updater_user_id type="integer">26975914</title_updater_user_id>
+                                <url_updater_user_id type="integer" nil="true"/>
+                                <title_language_code nil="true"/>
+                                <publisher_language_code nil="true"/>
+                                <description_language_code nil="true"/>
+                                <asin_updater_user_id type="integer" nil="true"/>
+                                <book_uri>kca://book/amzn1.gr.book.v1.-etTPhr39pGIMi7i56QKlQ</book_uri>
+                                <author>
+                                    <id type="integer">3001246</id>
+                                    <name>Yoon Ha Lee</name>
+                                    <updated_at type="datetime">2019-11-30T03:28:36+00:00</updated_at>
+                                    <created_at type="datetime">2009-07-29T21:33:52+00:00</created_at>
+                                    <searched_for_at type="datetime">2009-07-29T21:40:22+00:00</searched_for_at>
+                                    <image_uploaded_at type="datetime">2013-11-06T17:02:46+00:00</image_uploaded_at>
+                                    <user_id type="integer" nil="true"/>
+                                    <gender>M</gender>
+                                    <country_code>US</country_code>
+                                    <born_at type="date">1979-01-26</born_at>
+                                    <died_at type="datetime" nil="true"/>
+                                    <about>Yoon Ha Lee is an American science fiction writer born on January 26, 1979 in Houston, Texas. His first published story, “The Hundredth Question,” appeared in Fantasy &amp; Science Fiction in 1999; since then, over two dozen further stories have appeared. He lives in Baton Rouge, Louisiana.</about>
+                                    <uploader_user_id type="integer">1902630</uploader_user_id>
+                                    <image_copyright>http://www.tor.com/images/stories/stories/Lee/Yoon-Ha-Lee-photo.jpg</image_copyright>
+                                    <influences></influences>
+                                    <url>http://yoonhalee.com/</url>
+                                    <genre1>Science fiction</genre1>
+                                    <genre2>Fantasy</genre2>
+                                    <genre3></genre3>
+                                    <books_count type="integer">105</books_count>
+                                    <reviews_count type="integer">139538</reviews_count>
+                                    <ratings_sum type="integer">144276</ratings_sum>
+                                    <works_count type="integer">147</works_count>
+                                    <hometown>Houston, Texas</hometown>
+                                    <rating_dist>4:3|total:3</rating_dist>
+                                    <s3_image_at type="datetime">2015-05-15T03:53:58+00:00</s3_image_at>
+                                    <ratings_count type="integer">37078</ratings_count>
+                                    <text_reviews_count type="integer">6095</text_reviews_count>
+                                    <author_program_at type="datetime" nil="true"/>
+                                    <postal_code nil="true"/>
+                                    <fanships_count type="integer">25</fanships_count>
+                                    <best_book_id type="integer">26118426</best_book_id>
+                                    <name_language_code nil="true"/>
+                                    <sort_by_name>lee, yoon ha</sort_by_name>
+                                    <shelf_display_name>Lee, Yoon Ha</shelf_display_name>
+                                    <gender_custom nil="true"/>
+                                    <gender_pronoun nil="true"/>
+                                    <author_uri>kca://author/amzn1.gr.author.v1.WRFoEFjOMRGYe-LaGRNnJQ</author_uri>
+                                </author>
+                            </book>
+                        </review>
+                    </read_status>
+                </object>
+            </update>
+        </updates>
+        <user_statuses>
+    </user_statuses>
+    </user>
+</GoodreadsResponse>
