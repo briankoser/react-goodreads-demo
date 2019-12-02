@@ -1,7 +1,7 @@
 import React from 'react';
 const xml2js = require('xml2js');
 
-const request = new Request(`blahhttps://cors-anywhere.herokuapp.com/https://www.goodreads.com/user/show/4812558.xml?key=${process.env.REACT_APP_GOODREADS_API_KEY}`, {
+const request = new Request(`https://cors-anywhere.herokuapp.com/https://www.goodreads.com/user/show/4812558.xml?key=${process.env.REACT_APP_GOODREADS_API_KEY}`, {
   headers: {
     'X-Requested-By': 'XMLHttpRequest'
   }
@@ -53,14 +53,33 @@ class User extends React.Component {
     }
   
     render() {
-      const { error, isLoaded, items } = this.state;
+      const { error, isLoaded } = this.state;
+      const goodreadsData = this.state.items.GoodreadsResponse;
       if (error) {
         return <div>Error: {error.message}</div>;
       } else if (!isLoaded) {
         return <div>Loading...</div>;
       } else {
         return (
-          <h1>User {items.GoodreadsResponse.user[0].name[0]}</h1>
+          <React.Fragment>
+            <h1>Goodreads User</h1>
+            <table>
+              <tbody>
+                <tr>
+                  <th>Name</th>
+                  <td><a href={goodreadsData.user[0].link}>{goodreadsData.user[0].name[0]}</a></td>
+                </tr>
+                <tr>
+                  <th>Location</th>
+                  <td>{goodreadsData.user[0].location[0]}</td>
+                </tr>
+                <tr>
+                  <th>Website</th>
+                  <td><a href={goodreadsData.user[0].website[0]}>{goodreadsData.user[0].website[0]}</a></td>
+                </tr>
+              </tbody>
+            </table>
+          </React.Fragment>
         );
       }
     }
