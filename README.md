@@ -17,7 +17,7 @@ npm start
   - [ ] other components update based on state changes
 - [ ] Redux
 - [ ] Hook
-- [ ] Integrate with an API
+- [x] Integrate with an API
 - [ ] Unit tests
 - [ ] Accessible
   - React Accessibility page
@@ -26,8 +26,9 @@ npm start
 ## To do
 - [ ] Send Tim Gonzalez Github repo link by Jan 3
 - [x] Register for [Goodreads API](https://www.goodreads.com/api)
-- [ ] Display user information by Goodreads ID
+- [x] Display user information by Goodreads ID
 - [ ] Take ID input
+- [ ] Display user[0].updates in Updates component
 - [ ] Cache requests
 
 ------
