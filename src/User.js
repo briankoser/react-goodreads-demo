@@ -1,7 +1,7 @@
 import React from 'react';
 const xml2js = require('xml2js');
 
-const request = new Request(`https://cors-anywhere.herokuapp.com/https://www.goodreads.com/user/show/4812558.xml?key=${process.env.REACT_APP_GOODREADS_API_KEY}`, {
+const request = new Request(`blahhttps://cors-anywhere.herokuapp.com/https://www.goodreads.com/user/show/4812558.xml?key=${process.env.REACT_APP_GOODREADS_API_KEY}`, {
   headers: {
     'X-Requested-By': 'XMLHttpRequest'
   }
@@ -25,14 +25,13 @@ class User extends React.Component {
           return res.text();
         })
         .catch(
-          async (error) => {
+          (error) => {
             // If there is a network error, just use the response stored locally
             console.log(error);
-            const res = await fetch(new Request('goodreadsResponse.xml'));
-            console.log(res);
-            return res;
+            return fetch(new Request('goodreadsResponse.xml'))
+              .then(res => res.text());
           })
-        .then(str => xml2js.parseStringPromise(str))
+        .then(str => {console.log(str); return xml2js.parseStringPromise(str)})
         .then(
           (result) => {
             console.log(result);
