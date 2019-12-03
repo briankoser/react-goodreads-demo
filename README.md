@@ -1,6 +1,8 @@
 # react-goodreads-demo
 Demo for React training: React app calling the Goodreads API
 
+[Goodreads API documentation](https://www.goodreads.com/api/index)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## To run
@@ -13,7 +15,7 @@ npm start
 
 ## Features
 - [ ] State
-  - [ ] pass to children via props
+  - [x] pass to children via props
   - [ ] other components update based on state changes
 - [ ] Redux
 - [ ] Hook
@@ -24,11 +26,11 @@ npm start
   - ARIA labels, semantic HTML, accessible forms
 
 ## To do
-- [ ] Send Tim Gonzalez Github repo link by Jan 3
+- [ ] Send Tim Github repo link by Jan 3
 - [x] Register for [Goodreads API](https://www.goodreads.com/api)
 - [x] Display user information by Goodreads ID
 - [ ] Take ID input
-- [ ] Display user[0].updates in Updates component
+- [x] Display user[0].updates in Updates component
 - [ ] Cache requests
 
 ------

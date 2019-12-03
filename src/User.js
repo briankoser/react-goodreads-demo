@@ -7,6 +7,25 @@ const request = new Request(`https://cors-anywhere.herokuapp.com/https://www.goo
   }
 });
 
+class UpdateList extends React.Component {
+  renderItem(item, i) {
+    function createMarkup(text) {
+      console.log(text);
+      return {__html: text};
+    }
+
+    return (
+      <li key={item.link} dangerouslySetInnerHTML={createMarkup(item.action_text[0])} />
+    )
+  }
+  
+  render() {
+    return (
+      <ol>{this.props.updates.map(this.renderItem)}</ol>
+    )
+  }
+}
+
 class User extends React.Component {
     constructor(props) {
       super(props);
@@ -79,6 +98,8 @@ class User extends React.Component {
                 </tr>
               </tbody>
             </table>
+            <h2>Updates</h2>
+            <UpdateList updates={goodreadsData.user[0].updates[0].update} />
           </React.Fragment>
         );
       }
