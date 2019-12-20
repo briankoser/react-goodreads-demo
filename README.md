@@ -26,12 +26,11 @@ npm start
   - ARIA labels, semantic HTML, accessible forms
 
 ## To do
-- [ ] Send Tim Github repo link by Jan 3
 - [x] Register for [Goodreads API](https://www.goodreads.com/api)
 - [x] Display user information by Goodreads ID
-- [ ] Take ID input
 - [x] Display user[0].updates in Updates component
-- [ ] Cache requests
+- [ ] Take ID input
+- [ ] Send Tim Github repo link by Jan 3
 
 ------
 
