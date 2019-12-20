@@ -81,7 +81,7 @@ class User extends React.Component {
       } else {
         return (
           <React.Fragment>
-            <h1>Goodreads User</h1>
+            <h2>Goodreads User</h2>
             <table>
               <tbody>
                 <tr>
@@ -98,7 +98,7 @@ class User extends React.Component {
                 </tr>
               </tbody>
             </table>
-            <h2>Updates</h2>
+            <h3>Updates</h3>
             <UpdateList updates={goodreadsData.user[0].updates[0].update} />
           </React.Fragment>
         );
