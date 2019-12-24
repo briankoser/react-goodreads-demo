@@ -1,6 +1,5 @@
 import React from 'react';
-import Search from './Search';
-import User from './User';
+import GoodreadsUser from './GoodreadsUser';
 import './App.css';
 
 function App() {
@@ -8,8 +7,7 @@ function App() {
     <div className="App">
       <h1>React Goodreads Demo</h1>
       <p><a href="https://github.com/briankoser/react-goodreads-demo">https://github.com/briankoser/react-goodreads-demo</a></p>
-      <Search />
-      <User />
+      <GoodreadsUser />
     </div>
   );
 }
