@@ -14,9 +14,9 @@ npm start
 `
 
 ## Features
-- [ ] State
+- [x] State
   - [x] pass to children via props
-  - [ ] other components update based on state changes
+  - [x] other components update based on state changes
 - [ ] Redux
 - [ ] Hook
 - [x] Integrate with an API
@@ -29,7 +29,8 @@ npm start
 - [x] Register for [Goodreads API](https://www.goodreads.com/api)
 - [x] Display user information by Goodreads ID
 - [x] Display user[0].updates in Updates component
-- [ ] Take ID input
+- [x] Take ID input
+- [ ] Re-implement loading indicator
 - [ ] Send Tim Github repo link by Jan 3
 
 ------
