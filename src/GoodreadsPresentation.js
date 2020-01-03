@@ -1,8 +1,8 @@
 import React from 'react';
 import Search from './Search';
-import UserData from './UserData';
+import UserPresentation from './UserPresentation';
 
-class GoodreadsUser extends React.Component {
+class GoodreadsPresentation extends React.Component {
   constructor(props) {
     super(props);
     this.handleChange = this.handleChange.bind(this);
@@ -17,10 +17,10 @@ class GoodreadsUser extends React.Component {
     return (
       <div className="goodreads-user">
         <Search onGoodreadsFetch={this.handleChange} />
-        <UserData goodreadsUserData={this.state.goodreadsUserData} />
+        <UserPresentation goodreadsUserData={this.state.goodreadsUserData} />
       </div>
     )
   }
 }
 
-export default GoodreadsUser;
+export default GoodreadsPresentation;

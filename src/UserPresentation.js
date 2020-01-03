@@ -19,26 +19,27 @@ class UpdateList extends React.Component {
   }
 }
 
-class UserData extends React.Component {
+class UserPresentation extends React.Component {
     constructor(props) {
       super(props);
       this.state = {
         error: null,
-        isLoaded: false,
+        isLoading: false,
         items: []
       };
     }
   
     render() {
-      // const { error, isLoaded } = this.state;
+      const { error, isLoading } = this.state;
       const goodreadsUserData = this.props.goodreadsUserData;
       console.log(`UserDate render: ${goodreadsUserData}`);
-      // if (error) {
-      //   return <div>Error: {error.message}</div>;
-      // } else if (!isLoaded) {
-      //   return <div>Loading...</div>;
-      // } else {
-if(goodreadsUserData == '') {  return <div>Not loaded</div>; } else {
+      if (error) {
+        return <div>Error: {error.message}</div>;
+      } else if (isLoading) {
+        return <div>Loading...</div>;
+      } else if (goodreadsUserData.length === 0) {
+        return null;
+      } else {
         return (
           <React.Fragment>
             <h2>Goodreads User</h2>
@@ -66,4 +67,4 @@ if(goodreadsUserData == '') {  return <div>Not loaded</div>; } else {
     }
   }
 
-  export default UserData;
+  export default UserPresentation;
