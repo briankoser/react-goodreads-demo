@@ -1,12 +1,12 @@
 import React from 'react';
 const xml2js = require('xml2js');
 
-class Search extends React.Component {
+class UserSearch extends React.Component {
   constructor(props) {
     super(props);
     this.handleSubmit = this.handleSubmit.bind(this);
     this.state = {
-      userID: ''
+      userID: "4812558"
     };
   }
 
@@ -53,13 +53,13 @@ class Search extends React.Component {
   render() {
     return (
       <div>
-        <h2>Search for Goodreads User</h2>
+        <h3>Search for Goodreads User</h3>
         <form onSubmit={this.handleSubmit}>
           <label>
             Goodreads User ID
-            <input type="text" onChange={event => this.setState({ userID: event.target.value })} />
+            <input type="text" defaultValue={this.state.userID} onChange={event => this.setState({ userID: event.target.value })} />
           </label>
-          <span>(You can use 4812558)</span>
+          <span>(also try 54340861)</span>
           <input type="submit" value="Search" />
         </form>
       </div>
@@ -67,4 +67,4 @@ class Search extends React.Component {
   }
 }
 
-export default Search;
+export default UserSearch;

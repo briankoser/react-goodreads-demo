@@ -18,7 +18,7 @@ npm start
   - [x] pass to children via props
   - [x] other components update based on state changes
 - [ ] Redux
-- [ ] Hook
+- [x] Hook
 - [x] Integrate with an API
 - [ ] Unit tests
 - [ ] Accessible

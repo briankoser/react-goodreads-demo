@@ -42,7 +42,7 @@ class UserPresentation extends React.Component {
       } else {
         return (
           <React.Fragment>
-            <h2>Goodreads User</h2>
+            <h3>Goodreads User</h3>
             <table>
               <tbody>
                 <tr>
@@ -59,7 +59,7 @@ class UserPresentation extends React.Component {
                 </tr>
               </tbody>
             </table>
-            <h3>Updates</h3>
+            <h4>Updates</h4>
             <UpdateList updates={goodreadsUserData.user[0].updates[0].update} />
           </React.Fragment>
         );
