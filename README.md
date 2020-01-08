@@ -32,7 +32,7 @@ npm start
 - [x] Display user information by Goodreads ID
 - [x] Display user[0].updates in Updates component
 - [x] Take ID input
-- [ ] Deploy to netlify
+- [x] Deploy to netlify
 - [ ] Send Tim Github repo link
 
 ------
