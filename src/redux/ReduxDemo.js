@@ -1,9 +1,9 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { activateGeod, closeGeod, addBook } from '../redux/actions'
+import { addBook } from '../redux/actions'
 import BookListContainer from './BookListContainer'
 
-// App.js
+// ReduxDemo.js
 export class ReduxDemo extends React.Component {
   render() {
         let bookInput = React.createRef();
@@ -19,20 +19,6 @@ export class ReduxDemo extends React.Component {
         return (
             <>
                 <h2>Redux Demo</h2>
-                <h3>{this.props.geod.title || 'Hello World!'}</h3>
-
-                {this.props.geod.title ? (
-                <button onClick={this.props.closeGeod}>Exit Geod</button>
-                ) : (
-                <button
-                onClick={() =>
-                    this.props.activateGeod({ title: 'I am a geo dude!' })
-                }
-                >
-                Click Me!
-                </button>
-                )}
-
                 <h3>Add a book to the reading list</h3>
                 <label>
                   Book Title
@@ -45,15 +31,12 @@ export class ReduxDemo extends React.Component {
     }
 }
 
-// AppContainer.js
+// ReduxDemoContainer.js
 const mapStateToProps = state => ({
-  geod: state.geod,
   books: state.books
 });
 
 const mapDispatchToProps = {
-  activateGeod,
-  closeGeod,
   addBook
 };
 
