@@ -1,6 +1,8 @@
 # react-goodreads-demo
 Demo for React training: React app calling the Goodreads API
 
+[Hosted on Netlify](https://koser-react-demo.netlify.com/) [![Netlify Status](https://api.netlify.com/api/v1/badges/b1c8ddb0-7830-4feb-b1c6-11a7e95953ae/deploy-status)](https://app.netlify.com/sites/koser-react-demo/deploys)
+
 [Goodreads API documentation](https://www.goodreads.com/api/index)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
