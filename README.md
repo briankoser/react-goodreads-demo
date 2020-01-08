@@ -17,7 +17,7 @@ npm start
 - [x] State
   - [x] pass to children via props
   - [x] other components update based on state changes
-- [ ] Redux
+- [x] Redux
 - [x] Hook
 - [x] Integrate with an API
 - [ ] Unit test Redux reducers, action creators
@@ -30,8 +30,8 @@ npm start
 - [x] Display user information by Goodreads ID
 - [x] Display user[0].updates in Updates component
 - [x] Take ID input
-- [ ] Re-implement loading indicator
-- [ ] Send Tim Github repo link by Jan 3
+- [ ] Deploy to netlify
+- [ ] Send Tim Github repo link
 
 ------
 
