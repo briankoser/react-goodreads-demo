@@ -20,7 +20,7 @@ npm start
 - [ ] Redux
 - [x] Hook
 - [x] Integrate with an API
-- [ ] Unit tests
+- [ ] Unit test Redux reducers, action creators
 - [ ] Accessible
   - React Accessibility page
   - ARIA labels, semantic HTML, accessible forms
