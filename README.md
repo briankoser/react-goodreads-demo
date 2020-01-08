@@ -23,9 +23,10 @@ npm start
 - [x] Hook
 - [x] Integrate with an API
 - [ ] Unit test Redux reducers, action creators
-- [ ] Accessible
+- [x] Accessible
   - React Accessibility page
-  - ARIA labels, semantic HTML, accessible forms
+  - ARIA labels, semantic HTML, accessible forms, keyboard accessible
+  - [Ran through WebAIM's WAVE tool](https://wave.webaim.org/report#/https%3A%2F%2Fkoser-react-demo.netlify.com%2F), got the result: Congratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility.
 
 ## To do
 - [x] Register for [Goodreads API](https://www.goodreads.com/api)

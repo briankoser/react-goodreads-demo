@@ -22,7 +22,7 @@ export class ReduxDemo extends React.Component {
                 <h3>Add a book to the reading list</h3>
                 <label>
                   Book Title
-                  <input type="text" ref={bookInput} />
+                  <input type="text" ref={bookInput} aria-label="Book for reading list" />
                 </label>
                 <button onClick={handleAddBookClick}>Add Book</button>
                 <BookListContainer />

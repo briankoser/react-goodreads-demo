@@ -33,7 +33,7 @@ function HooksDemo() {
       <h2>Hooks Demo</h2>
       <label>
         Goodreads Book ID
-        <input value={bookID} onChange={e => setBookID(e.target.value)} /> (also try 77566)
+        <input value={bookID} onChange={e => setBookID(e.target.value)} type="search" aria-label="Search for book by Goodreads ID" /> (also try 77566)
       </label>
       <table>
         <tbody>

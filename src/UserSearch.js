@@ -52,17 +52,17 @@ class UserSearch extends React.Component {
 
   render() {
     return (
-      <div>
+      <>
         <h3>Search for Goodreads User</h3>
         <form onSubmit={this.handleSubmit}>
           <label>
             Goodreads User ID
-            <input type="text" defaultValue={this.state.userID} onChange={event => this.setState({ userID: event.target.value })} />
+            <input type="text" defaultValue={this.state.userID} onChange={event => this.setState({ userID: event.target.value })} type="search" aria-label="Search for Goodreads user by ID" />
           </label>
           <span>(also try 54340861)</span>
           <input type="submit" value="Search" />
         </form>
-      </div>
+      </>
     )
   }
 }
