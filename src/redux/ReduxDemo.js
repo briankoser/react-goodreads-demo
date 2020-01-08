@@ -1,10 +1,21 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { activateGeod, closeGeod } from '../redux/actions'
+import { activateGeod, closeGeod, addBook } from '../redux/actions'
+import BookListContainer from './BookListContainer'
 
 // App.js
 export class ReduxDemo extends React.Component {
-    render() {
+  render() {
+        let bookInput = React.createRef();
+        let handleAddBookClick = () => {
+          let title = bookInput.current.value;
+          if (title !== '') {
+            this.props.addBook(title); 
+          }
+
+          bookInput.current.value = '';
+        }
+
         return (
             <>
                 <h2>Redux Demo</h2>
@@ -21,6 +32,14 @@ export class ReduxDemo extends React.Component {
                 Click Me!
                 </button>
                 )}
+
+                <h3>Add a book to the reading list</h3>
+                <label>
+                  Book Title
+                  <input type="text" ref={bookInput} />
+                </label>
+                <button onClick={handleAddBookClick}>Add Book</button>
+                <BookListContainer />
             </>
         );
     }
@@ -29,11 +48,13 @@ export class ReduxDemo extends React.Component {
 // AppContainer.js
 const mapStateToProps = state => ({
   geod: state.geod,
+  books: state.books
 });
 
 const mapDispatchToProps = {
   activateGeod,
   closeGeod,
+  addBook
 };
 
 const ReduxDemoContainer = connect(
